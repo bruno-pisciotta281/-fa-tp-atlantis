@@ -5,4 +5,12 @@
 <p align="center">Professor: Gerson Penha</p>
 <p align="center">Curso: D.S.M - Fatec SJC</p>
 
+## <a name="criador">&#128400;</a> *CRIADOR:*
+
+
+| [<img src="https://github.com/bruno-pisciotta281/Index.html/blob/master/img/me.jpg" width="75px;"/>](https://github.com/guilhermerodz) |
+| :------------------------------------------------------------------------------------------------------------------------: |
+
+| [Bruno Pisciotta](https://github.com/bruno-pisciotta281)
+
 
