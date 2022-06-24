@@ -6,7 +6,7 @@
 <p align="center">Professor: Gerson Penha</p>
 <p align="center">Curso: D.S.M - Fatec SJC</p>
 
-## Descrição: 
+## :books: DESCRIÇÃO: 
 <b>
 Repositório reservado para a matéria de Técnicas de Programação II, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
 
