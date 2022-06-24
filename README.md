@@ -7,8 +7,9 @@
 <p align="center">Curso: D.S.M - Fatec SJC</p>
 
 ## :books: DESCRIÇÃO: 
-<b>
 Repositório reservado para a tividade final da matéria de Técnicas de Programação II, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
+
+Feito e executado com base no repositório: https://github.com/gerson-pn/atvi-atlantis.
 
 ## <a name="criador">&#128400;</a> *CRIADOR:*
 
