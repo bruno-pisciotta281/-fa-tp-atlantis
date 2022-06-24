@@ -3,8 +3,9 @@
 
 <p align="center">Aluno: Bruno Pisciotta</p>
 <p align="center">Matéria: Técnicas de Programação II</p>
-<p align="center">Professor: Gerson Penha</p>
 <p align="center">Curso: D.S.M - Fatec SJC</p>
+<p align="center">Professor: Gerson Penha </p> 
+<p align="center">https://github.com/gerson-pn</p> 
 
 ## :books: DESCRIÇÃO: 
 Repositório reservado para a tividade final da matéria de Técnicas de Programação II, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
