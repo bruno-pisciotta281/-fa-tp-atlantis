@@ -9,6 +9,7 @@
 
 ## :books: DESCRIÇÃO: 
 Repositório reservado para a tividade final da matéria de Técnicas de Programação II, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
+<br>
 Feito e executado com base no repositório: https://github.com/gerson-pn/atvi-atlantis.
 ## <a name="criador">&#128400;</a> *CRIADOR:*
 | [<img src="https://github.com/bruno-pisciotta281/Index.html/blob/master/img/me.jpg" width="75px;"/>](https://github.com/guilhermerodz) |
